@@ -1,7 +1,10 @@
-langchain
-openai
-faiss-cpu
-tiktoken
-pypdf
 streamlit
 flask
+flask-cors
+langchain
+langchain-community
+sentence-transformers
+faiss-cpu
+python-dotenv
+groq
+requests
