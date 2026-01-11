@@ -105,4 +105,6 @@ Question:
                 st.write(answer)
 
             except Exception as e:
-                st.error("❌ Error while generating answer. Please try again.")
+                st.error("Error while generating answer.")
+                st.code(str(e))
+
