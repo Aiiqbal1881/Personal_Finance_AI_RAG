@@ -9,8 +9,7 @@ __pycache__/
 .env
 
 # FAISS / embeddings
-*.faiss
-*.pkl
+
 
 # OS files
 .DS_Store
